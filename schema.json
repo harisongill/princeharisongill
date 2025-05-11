@@ -1,0 +1,15 @@
+{
+    "numerical_features": [
+        "JoiningYear",
+        "PaymentTier",
+        "Age",
+        "ExperienceInCurrentDomain"
+    ],
+    "categorical_features": [
+        "Education",
+        "City",
+        "Gender",
+        "EverBenched"
+    ],
+    "target": "LeaveOrNot"
+}
